@@ -6,5 +6,5 @@ int main() Then
         Print FunctionParamStart "hello" FunctionParamEnd Stop
     End
 
-    return 1 Stop
+    ReturnOne
 End
